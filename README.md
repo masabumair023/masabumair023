@@ -10,4 +10,3 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/profile.php?id=100008617064449) and [Instagram](https://www.instagram.com/iammasabumair)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I think I am a fitness freak :grin:
--->
