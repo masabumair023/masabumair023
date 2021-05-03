@@ -60,4 +60,3 @@
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
