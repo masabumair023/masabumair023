@@ -15,7 +15,7 @@
 
 ### Talk with me, I am kinda awesome:
 <a href="https://www.w3schools.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="W3Schools.com" width="50" height="70">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="W3Schools.com" width="30" height="50">
 </a>
 
 <br />
