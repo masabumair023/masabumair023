@@ -1,7 +1,7 @@
 ### print("Hello World") </br> I'm Masab <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" width="400" height="220" />
+ <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" width="500" height="320" />
 
 
 ## I'm a Student and an aspiring Data Scientist !!
