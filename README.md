@@ -14,7 +14,9 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="masabumair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
+<a href="https://www.w3schools.com">
+<img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
+</a>
 
 <br />
 
