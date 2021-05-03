@@ -41,3 +41,6 @@
 <img align="left" alt="Masab's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masabumair023" />
 
 </details>
+
+[instagram]: https://www.instagram.com/iammasabumair/
+[linkedin]:  https://www.linkedin.com/in/masabumair/
