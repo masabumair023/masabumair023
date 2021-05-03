@@ -30,9 +30,21 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" />
+<img align="left" alt="Anaconda" width="26px" src="https://www.programmersought.com/images/282/eb2c5acfb0cf98f7219e8195e43c5732.png" />
 
+<img align="left" alt="Dev C++" width="26px" src="https://seeklogo.com/images/D/dev-c-logo-53D6C744A8-seeklogo.com.png" />
 
+<img align="left" alt="Atom" width="26px" src="https://image.flaticon.com/icons/png/512/1/1734.png" />
+
+<img align="left" alt="Visual Studio" width="26px" src="https://img.favpng.com/19/19/18/microsoft-visual-studio-visual-studio-code-computer-icons-computer-software-png-favpng-eb5PQj1aWE2eDcSnSDQzGCWCt.jpg" />
+
+<img align="left" alt="Pycharm" width="26px" src="https://image.pngaaa.com/752/4621752-middle.png" />
+
+<img align="left" alt="Alteryx" width="26px" src="https://e7.pngegg.com/pngimages/698/1010/png-clipart-alteryx-computer-software-service-information-business-intelligence-others-miscellaneous-blue-thumbnail.png" />
+
+<img align="left" alt="Tableau" width="26px" src="https://linksinternational.com/wp-content/uploads/2020/09/Tableau-Logo.png" />
+
+<img align="left" alt="Jupyter" width="26px" src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" />
 <br />
 <br />
 ---
