@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" width="500" height="320" />
 
 
-## I'm a Student and an aspiring Data Scientist !!
+## I'm a Computer Science student and an Aspiring Data Scientist !!
 - 🔭 I’m currently working on my Final Year Project, VisionX (An android application for buildings recognition).
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source
