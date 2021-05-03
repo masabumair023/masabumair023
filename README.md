@@ -24,7 +24,9 @@
 <a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30">
 </a>
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VS Code]
+<a>
+<img src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png" alt="Anaconda" width="30" height="30">
+</a>
 
 <br />
 <br />
