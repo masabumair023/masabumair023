@@ -14,7 +14,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/masabumair/)
+[![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg) LinkedIn](https://www.linkedin.com/in/masabumair/)
 
 <br />
 
