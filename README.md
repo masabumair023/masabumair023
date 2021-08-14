@@ -19,7 +19,7 @@
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\
 ⚡ &nbsp;Fun fact: I am a lazy fitness freak :joy:
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/masabumair023/chiraag-kakar/master/hadder.gif" width = "350" height = "200" align="right"/>
+<img alt="Coding" src="https://raw.githubusercontent.com/masabumair023/chiraag-kakar/master/hadder.gif" width = "400" height = "250" align="right"/>
 
 
 
