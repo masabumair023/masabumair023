@@ -1,4 +1,4 @@
-[![](https://giphy.com/gifs/dataanalyst-masab-masabumair-NQskht4xUYwMqyy57N/fullscreen)](https://www.adamalston.com/)
+![Masab Umair, Data Analyst](https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif)
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> I'm Masab Umair
 
 ### 👨🏻‍💻 &nbsp;About Me
