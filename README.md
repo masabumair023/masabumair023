@@ -1,7 +1,11 @@
 <img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="700" height="110" />
 
 
+
 <img alt="Hand Wave gif" src="https://raw.githubusercontent.com/masabumair023/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Masab</h2>
+
+
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -19,6 +23,7 @@
 
 
 
+
 ### 🛠 &nbsp;Tech Stack
 
 <p align="left"><img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-python-50.png" alt="Python" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-r-project-32.png" alt="R" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-sql-50.png" alt="SQL" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-tableau-software-50.png" alt="Tableau" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-microsoft-excel-50.png" alt="Excel" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/alteryx.png" alt="Alteryx" width="70" height="30"/> </p>
@@ -27,12 +32,8 @@
 <p align="left"><img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-office-365-50.png" alt="MS Office" width="40" height="40"/><img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-visual-studio-logo-50.png" alt="Visual Studio" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-pycharm-64.png" alt="Pycharm" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-visual-studio-code-2019-64.png" alt="Visual Studio Code" width="40" height="40"/>  <img                 src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-git-50.png" alt="git" width="40" height="40"/> <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-github-48.png" alt="GitHub" width="40" height="40"/>    <img src="https://github.com/masabumair023/masabumair023/blob/main/assets/icons8-cloud-50.png" alt="cloud" width="40" height="40"/>  
 </p>
 	
-<h3 id="spotify-playing-">Spotify Playing 🎧</h3>
-<p>
-  <a href="https://open.spotify.com/user/u72bkq9pkwey82nfg4vshg377">
-   <img src="https://spotify-now-playing-sauravchamoli17.vercel.app/api/spotify-playing" alt="Saurav Spotify Playing" width="350" />
-  </a>
-</p>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masabumair023&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
@@ -51,6 +52,9 @@
 <a href="https://github.com/masabumair023/github-readme-activity-graph"><img alt="Masab Umair's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=masabumair023&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
+
+
+
 ### 🤝 &nbsp;Feel free to connect and contact
 
 <p align="center">
@@ -60,51 +64,4 @@
 	<a href="https://www.instagram.com/iammasabumair/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/MasabUmair20"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
