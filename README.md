@@ -1,7 +1,7 @@
 <img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="700" height="110" />
 
 
-<img alt="Hand Wave gif" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Masab</h2>
+<img alt="Hand Wave gif" src="https://raw.githubusercontent.com/masabumair023/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Masab</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,6 +14,8 @@
 ✉️ &nbsp;You can shoot me an email at masabumair2000@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\
 ⚡ &nbsp;Fun fact: I am a lazy fitness freak :joy:
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/masabumair023/chiraag-kakar/master/hadder.gif" width = "400" height = "250" align="right"/>
 
 
 
