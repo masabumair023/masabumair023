@@ -1,4 +1,4 @@
-<img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="700" height="110"/>
+<img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="800" height="150"/>
 
 
 
