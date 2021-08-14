@@ -1,4 +1,4 @@
-![Masab Umair, Data Analyst](https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif)
+<img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="10000" height="150" />
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> I'm Masab Umair
 
 ### 👨🏻‍💻 &nbsp;About Me
