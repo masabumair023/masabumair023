@@ -1,7 +1,7 @@
 <img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="700" height="110" />
 
 
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> I'm Masab Umair
+<img alt="Hand Wave gif" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello World! I'm Masab</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
