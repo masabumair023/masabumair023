@@ -1,4 +1,4 @@
-<img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="600" height="130" />
+<img src="https://github.com/masabumair023/masabumair023/blob/main/masabumair.gif" width="700" height="110" />
 
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> I'm Masab Umair
