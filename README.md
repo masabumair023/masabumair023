@@ -10,7 +10,8 @@
 🌱 &nbsp;I'm on track for learning more about Data Science, Artificial Intelligence and Deep Learning.\
 ✍️ &nbsp;I'm currently working on my Final Year Project which uses Machine Learning, Deep Learning, and Computer Vision techniques.\
 💬 &nbsp;Feel free to reach out to me for discussion about Data related stuff , or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at masabumair2000@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at masabumair2000@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
 
 
