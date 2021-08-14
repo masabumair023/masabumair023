@@ -5,7 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Udacity certified Data Analyst and a Business Analyst and I Love to play with Data.\
+💡 &nbsp;I am a Udacity certified Data Analyst and a Business Analyst.\
+❤️ &nbsp;I Love to play with Data.\
 🎓 &nbsp;I'm a final year student of Computer Sciences at COMSATS University Islamabad, Pakistan.\
 🌱 &nbsp;I'm on track for learning more about Data Science, Artificial Intelligence and Deep Learning.\
 ✍️ &nbsp;I'm currently working on my Final Year Project which uses Machine Learning, Deep Learning, and Computer Vision techniques.\
@@ -71,6 +72,8 @@
 	<a href="https://www.instagram.com/iammasabumair/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/MasabUmair20"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
+
+
 
 
 
