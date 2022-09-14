@@ -65,3 +65,5 @@
 	<a href="https://twitter.com/MasabUmair20"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{imakash3011}/count.svg)
